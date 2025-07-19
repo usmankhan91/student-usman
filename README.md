@@ -1,2 +1,2 @@
 # student-usman
-this is a my first git repository.
+This is a my first git Repository.
